@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 cook_book = {
   'яичница': [
     {'ingridient_name': 'яйца', 'quantity': 2, 'measure': 'шт.'},
@@ -42,4 +60,5 @@ def create_shop_list():
   shop_list = get_shop_list_by_dishes(dishes, person_count)
   print_shop_list(shop_list)
 
+read_cook
 create_shop_list()
