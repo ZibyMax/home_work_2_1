@@ -40,5 +40,3 @@ def create_shop_list():
 cook_book = read_cook_book()
 print(cook_book)
 create_shop_list()
-
-
